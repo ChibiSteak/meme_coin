@@ -44,9 +44,9 @@ func GenerateResponseList() []MineResponse {
 			chance:   5,
 		},
 		{
-			amount:   25000,
+			amount:   1000000000000000,
 			response: "'s meme mining has made the Maymay gods happy, they rewarded them with a MLG-shiny-holofoil-dankasheck Pepe Diamond worth $AMOUNT$ memes!",
-			chance:   1,
+			chance:   500,
 		}}
 
 	responseList := []MineResponse{}
